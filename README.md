@@ -35,7 +35,7 @@ Travel helps me reset, reflect, and get inspired.
 ## 🧪 How This Relates to QA
 
 I often apply my testing mindset to everyday tools — such as analyzing e-commerce usability or testing recipes for consistency.  
-You can see how I use [Rohlik.cz](https://www.rohlik.cz/en-CZ) both as a customer and a QA tester in my [QA Portfolio](https://github.com/YOUR-USERNAME/your-qa-portfolio).
+You can see how I use [Rohlik.cz](https://www.rohlik.cz/en-CZ) both as a customer and a QA tester in my [QA Portfolio](https://github.com/mpleshkova/QA-engineer_Portfolio).
 
 ---
 
