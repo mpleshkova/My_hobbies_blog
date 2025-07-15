@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Updated](https://img.shields.io/badge/last%20update-July%202024-blue)
+![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
 # 🌿 My Hobbies Blog
 
 Welcome to my personal space where I share the things that inspire me outside of QA testing — cooking, coffee, and travel. Some of these hobbies also connect with my professional projects, such as testing real-world e-commerce platforms like [Rohlik.cz](https://www.rohlik.cz).
