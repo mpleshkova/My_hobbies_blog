@@ -1,5 +1,5 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Updated](https://img.shields.io/badge/last%20update-July%202024-blue)
+![Updated](https://img.shields.io/badge/last%20update-July%202025-blue)
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 # 🌿 My Hobbies Blog
